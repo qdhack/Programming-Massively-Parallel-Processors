@@ -188,6 +188,8 @@ Note that the calculation happens in two phases when we use two 4x4 matrices and
 
 ## 4.5 A Tiled Matrix Multiplication Kernel
 
+https://claude.ai/chat/1b4c654b-18e2-434e-b0e4-2589979ee6d7
+
 Α tiled matrix multiplication kernel is shown below.
 
 ```C
